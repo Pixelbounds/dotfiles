@@ -1,0 +1,5 @@
+verbose: false
+prompt_overwrite_files: true
+relay_serve_port: 8080
+tui_style: rich
+relay: 208.85.20.80:1337
