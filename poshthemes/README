@@ -1,0 +1,4 @@
+# To configure and add a new theme from local directory .poshthemes,
+# use the following command:
+
+eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/theme.omp.json)"
